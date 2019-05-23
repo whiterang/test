@@ -1,0 +1,82 @@
+{
+  "4c995c1ca17ba2f18d99759f8cb0b056" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31e618f8c07ddd25",
+      "reportUrl" : "http://localhost:8080/jenkins/job/allure_pytest_jenkins/5/allure/#testresult/31e618f8c07ddd25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558360710083,
+        "stop" : 1558360710083,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5fb887c3d3686e8b24427bf3acdb39be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "340f06d92c49c29",
+      "reportUrl" : "http://localhost:8080/jenkins/job/allure_pytest_jenkins/5/allure/#testresult/340f06d92c49c29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558360710079,
+        "stop" : 1558360710079,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d596fa76472351e25dae1bdffb833683" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b7ae0085e40abe8",
+      "reportUrl" : "http://localhost:8080/jenkins/job/allure_pytest_jenkins/5/allure/#testresult/4b7ae0085e40abe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558360710049,
+        "stop" : 1558360710049,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fed422a57fd1c520369010cc48f020af" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4d8d22e525d5b43",
+      "reportUrl" : "http://localhost:8080/jenkins/job/allure_pytest_jenkins/5/allure/#testresult/d4d8d22e525d5b43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558360710053,
+        "stop" : 1558360710053,
+        "duration" : 0
+      }
+    } ]
+  }
+}

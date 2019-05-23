@@ -1,0 +1,81 @@
+{
+  "uid" : "6688693b85811fc8",
+  "name" : "test_add",
+  "fullName" : "01_pytest_demo.TestPytest#test_add",
+  "historyId" : "5fb887c3d3686e8b24427bf3acdb39be",
+  "time" : {
+    "start" : 1558360719830,
+    "stop" : 1558360719831,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "01_pytest_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-NES4V098Q85"
+  }, {
+    "name" : "thread",
+    "value" : "28344-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "01_pytest_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f77ab7df1301d91d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558360710079,
+        "stop" : 1558360710079,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "340f06d92c49c29",
+        "reportUrl" : "http://localhost:8080/jenkins/job/allure_pytest_jenkins/5/allure/#testresult/340f06d92c49c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1558360710079,
+          "stop" : 1558360710079,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6688693b85811fc8.json",
+  "parameterValues" : [ ]
+}

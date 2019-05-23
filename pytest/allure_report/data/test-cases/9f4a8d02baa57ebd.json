@@ -1,0 +1,48 @@
+{
+  "uid" : "9f4a8d02baa57ebd",
+  "name" : "test_zhihu_index",
+  "fullName" : "01_pytest_demo#test_zhihu_index",
+  "historyId" : "fed422a57fd1c520369010cc48f020af",
+  "time" : {
+    "start" : 1558360710053,
+    "stop" : 1558360710053,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "01_pytest_demo"
+  }, {
+    "name" : "host",
+    "value" : "WIN-NES4V098Q85"
+  }, {
+    "name" : "thread",
+    "value" : "16052-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "01_pytest_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f4a8d02baa57ebd.json",
+  "parameterValues" : [ ]
+}

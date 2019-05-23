@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 20 21:58:39 CST 2019","Mon May 20 21:58:39 CST 2019","1","","01_pytest_demo","","","","test_add",""
+"passed","Mon May 20 21:58:39 CST 2019","Mon May 20 21:58:39 CST 2019","0","","01_pytest_demo","TestPytest","","","test_zhihu_index",""
+"passed","Mon May 20 21:58:39 CST 2019","Mon May 20 21:58:39 CST 2019","1","","01_pytest_demo","TestPytest","","","test_add",""
+"passed","Mon May 20 21:58:39 CST 2019","Mon May 20 21:58:39 CST 2019","0","","01_pytest_demo","","","","test_zhihu_index",""
