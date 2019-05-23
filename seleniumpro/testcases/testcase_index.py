@@ -41,4 +41,4 @@ class TestCaseLogin(unittest.TestCase):
         # self.assertEqual(ele.text, "你输入的密码和账户名不匹配，请确认后重新输入。")
         self.assertNotEqual(ele.text, "")
 
-        print("这是登录失败的测试用例")
+        print("这是登录失败的测试用")
